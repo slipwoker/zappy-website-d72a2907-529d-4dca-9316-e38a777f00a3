@@ -1,0 +1,83 @@
+# Self Defense Worldwide — Generative Engine Optimization Map
+
+> A premium, authority-driven personal protection brand positioned as 'Personal Protection & Violence Prevention Specialist' — focused on prevention, awareness, and confidence rather than fighting or martial arts. The brand exudes calm authority, psychological intelligence, and real-world practicality, targeting emotionally motivated buyers (women's safety, parental concern, corporate liability). The tone is trustworthy, mature, and experience-based, with 40+ years of expertise, separating itself entirely from dojo instructors, sport fighters, and flashy tactical entertainment. Core themes include danger recognition, predator psychology, situational awareness, verbal de-escalation, and family protection.
+
+---
+
+## Pages
+
+### Home
+https://self-defense-worldwide-d72a2907.zappy5.app
+Discover real-world personal safety training built on 40+ years of expertise. Not martial arts—proven prevention, awareness, and confidence skills. Start your protection journey today.
+
+### Programs
+https://self-defense-worldwide-d72a2907.zappy5.app/programs
+Workshops and programs that transform fear into calm authority. From corporate violence prevention to family protection, learn predator psychology and verbal de-escalation. Explore all programs.
+
+### Who It's For
+https://self-defense-worldwide-d72a2907.zappy5.app/audiences
+Tailored protection training for women, corporations, and professionals facing unique risks. Real estate agents, parents, executives—build unshakable confidence with age-old wisdom.
+
+### About
+https://self-defense-worldwide-d72a2907.zappy5.app/about
+Meet the calm authority behind the brand. No dojo instructors or sport fighters—just four decades of real-world violence prevention, danger recognition, and psychological intelligence you can trust.
+
+### Contact
+https://self-defense-worldwide-d72a2907.zappy5.app/contact
+Ready to replace fear with confidence? Reach out for corporate workshops, women&#39;s safety programs, or personal consultations. Real protection skills start with one conversation.
+
+## Legal & Policy
+
+### Privacy Policy
+https://self-defense-worldwide-d72a2907.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://self-defense-worldwide-d72a2907.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://self-defense-worldwide-d72a2907.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://self-defense-worldwide-d72a2907.zappy5.app/contact
+- Endpoint: https://self-defense-worldwide-d72a2907.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Self Defense Worldwide
+A premium, authority-driven personal protection brand positioned as 'Personal Protection & Violence Prevention Specialist' — focused on prevention, awareness, and confidence rather than fighting or martial arts. The brand exudes calm authority, psychological intelligence, and real-world practicality, targeting emotionally motivated buyers (women's safety, parental concern, corporate liability). The tone is trustworthy, mature, and experience-based, with 40+ years of expertise, separating itself entirely from dojo instructors, sport fighters, and flashy tactical entertainment. Core themes include danger recognition, predator psychology, situational awareness, verbal de-escalation, and family protection.
+
+## Target Audience
+- Women 35-55, parents with children 8-16, adults 40+, corporate teams, college students, real estate agents, rideshare drivers, nurses, church groups
+- Women Self-Defense Enthusiasts
+- Protective Parents
+- Corporate Wellness Teams
+
+## Industry
+Personal Safety & Self-Defense Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://self-defense-worldwide-d72a2907.zappy5.app/sitemap.xml
+- Robots: https://self-defense-worldwide-d72a2907.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://self-defense-worldwide-d72a2907.zappy5.app/llms-full.txt
