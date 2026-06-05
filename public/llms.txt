@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://self-defense-worldwide-d72a2907.zappy5.app
+https://example.com
 Discover real-world personal safety training built on 40+ years of expertise. Not martial arts—proven prevention, awareness, and confidence skills. Start your protection journey today.
 
 ### Programs
-https://self-defense-worldwide-d72a2907.zappy5.app/programs
+https://example.com/programs
 Workshops and programs that transform fear into calm authority. From corporate violence prevention to family protection, learn predator psychology and verbal de-escalation. Explore all programs.
 
 ### Who It's For
-https://self-defense-worldwide-d72a2907.zappy5.app/audiences
+https://example.com/audiences
 Tailored protection training for women, corporations, and professionals facing unique risks. Real estate agents, parents, executives—build unshakable confidence with age-old wisdom.
 
 ### About
-https://self-defense-worldwide-d72a2907.zappy5.app/about
+https://example.com/about
 Meet the calm authority behind the brand. No dojo instructors or sport fighters—just four decades of real-world violence prevention, danger recognition, and psychological intelligence you can trust.
 
 ### Contact
-https://self-defense-worldwide-d72a2907.zappy5.app/contact
+https://example.com/contact
 Ready to replace fear with confidence? Reach out for corporate workshops, women&#39;s safety programs, or personal consultations. Real protection skills start with one conversation.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://self-defense-worldwide-d72a2907.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://self-defense-worldwide-d72a2907.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://self-defense-worldwide-d72a2907.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://self-defense-worldwide-d72a2907.zappy5.app/contact
-- Endpoint: https://self-defense-worldwide-d72a2907.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Personal Safety & Self-Defense Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://self-defense-worldwide-d72a2907.zappy5.app/sitemap.xml
-- Robots: https://self-defense-worldwide-d72a2907.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://self-defense-worldwide-d72a2907.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
